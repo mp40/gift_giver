@@ -19,6 +19,16 @@ class Gift extends Component {
                             onChange={event => this.setState({person: event.target.value})}
                             />
                     </Form.Group>
+                    <Form.Group>
+                        <Form.Label>
+                            Present
+                        </Form.Label>
+                        <Form.Control
+                            className="input-present"
+                            onChange={event => this.setState({present: event.target.value})}
+                        >
+                        </Form.Control>
+                    </Form.Group>
                 </Form>
             </div>
         )
