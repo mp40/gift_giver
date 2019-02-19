@@ -53,6 +53,7 @@ ShallowWrapper {
           Remove Gift
         </ForwardRef(Bootstrap(Button))>,
       ],
+      "className": "gift",
     },
     "ref": null,
     "rendered": Array [
@@ -314,6 +315,7 @@ ShallowWrapper {
             Remove Gift
           </ForwardRef(Bootstrap(Button))>,
         ],
+        "className": "gift",
       },
       "ref": null,
       "rendered": Array [
