@@ -6,7 +6,7 @@ body {
 }
 
 .gift {
-  border: 1px solid rgb(189, 181, 181);
+  border: 1px solid lightgray;
   border-radius: 5px;
   margin: 10px;
   padding: 20px;
